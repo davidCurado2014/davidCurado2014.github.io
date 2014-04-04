@@ -1,0 +1,33 @@
+{
+  "name": "Nodejs trainer",
+  "version": "1.0.0",
+  "description": "A ver que hacemos",
+  "keywords": [
+    "github",
+    "Node.js",
+    "application"
+  ],
+  "author": {
+    "name": "David",
+    "email": "ramr@example.org"
+  },
+  "homepage": "https://github.com/davidCurado2014/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidCurado2014/davidCurado2014.github.io"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+    "http": ""
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+
+  "private": true,
+  "main": "server.js"
+}
